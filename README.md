@@ -1,5 +1,7 @@
 <h1 align="center">Hi👋, I'm Pedram Karimi</h1>
-
+<div align="right">
+[![](https://visitcount.itsvg.in/api?id=pedramkarimii&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 <div align="center">
         <link rel="apple-touch-icon" href="favicon.png">
         <img width="340em" height="340em" src="./Pedramkarimi.png"   alt="Pedram Karimi">
@@ -37,11 +39,11 @@
 
   <a href="https://github.com/pedramkarimii" align="left"><img src="https://github-readme-stats.vercel.app/api?username=pedramkarimii&show_icons=true&theme=synthwave" alt="pedramkarimii's GitHub stats" /></a>
   
-  <!-- <a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedramkarimii&hide_progress=true" alt="Top Languages" /></a> -->
-  <p><img align="center"
+  <a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedramkarimii&hide_progress=true" alt="Top Languages" /></a> 
+  <!-- <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=pedramkarimii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="kiarashfz" 
-    bg_color=#808080/></p>
+    alt="pedramkarimii" 
+    bg_color=#808080/></p> -->
   
   <a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedramkarimii&theme=default" alt="GitHub Streak"/></a>
 
