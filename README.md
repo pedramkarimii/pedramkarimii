@@ -12,7 +12,7 @@
 
 <be>
 
-<p align="center"> ![pedram's Viewers](https://komarev.com/ghpvc/?username=pedramkarimii&color=ff69b4&style=flat&base=100) </p>
+<p align="center"> </p>
 
 <br>
 <br>
@@ -32,7 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="Github"/>
 </div>
-
+![pedram's Viewers](https://komarev.com/ghpvc/?username=pedramkarimii&color=ff69b4&style=flat&base=100) 
 <br>
 <br>
 <h2 align="center">Github Status</h2>
