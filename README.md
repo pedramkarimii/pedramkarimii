@@ -10,9 +10,9 @@
 <p align="center">💬  &nbsp;Ask me about **Python** | **Django** <br></p>
 <p align="center">📫  &nbsp;Email: pedram.9060@gmail.com</p>
 
-<br>
+<be>
 
-![pedram's Viewers](https://komarev.com/ghpvc/?username=pedramkarimii&color=ff69b4&style=flat&base=100)
+<p align="center">![pedram's Viewers](https://komarev.com/ghpvc/?username=pedramkarimii&color=ff69b4&style=flat&base=100)</p>
 
 <br>
 <br>
