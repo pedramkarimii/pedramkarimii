@@ -6,14 +6,12 @@
 </div>
 <h3 align="center">✨About Me✨</h3>
 <p align="center">I am a backend developer 💻. My expertise lies in Django and Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.</p>
-<be>
+<br>
 <p align="center">💬  &nbsp;Ask me about **Python** | **Django** <br></p>
 <p align="center">📫  &nbsp;Email: pedram.9060@gmail.com</p>
 
-<be>
-<div align="center">
-<p > ![pedram's Viewers](https://komarev.com/ghpvc/?username=pedramkarimii&color=ff69b4&style=flat&base=100) </p>
-</div>
+<br>
+
 <br>
 <br>
 
