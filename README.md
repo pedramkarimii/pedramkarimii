@@ -9,7 +9,7 @@
 <br>
 <p align="center">💬  &nbsp;Ask me about **Python** | **Django** <br></p>
 <p align="center">📫  &nbsp;<a href="mailto:pedram.9060@gmail.com">pedram.9060@gmail.com</a></p>
-<p align="center">📞 &nbsp;<a href="tel:+989128355747">+989128355747</a></p>
+<p align="center">📞 &nbsp;<a href="tel:+989128355747">09128355747</a></p>
 
 <br>
 
