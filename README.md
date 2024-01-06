@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Pedram Karimi</h1>
 
-<div>
+<div align="center">
         <link rel="apple-touch-icon" href="favicon.png">
         <img width="340em" height="340em" src="./Pedramkarimi.png"   alt="Pedram Karimi">
 </div>
