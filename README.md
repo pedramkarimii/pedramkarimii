@@ -1,7 +1,5 @@
 <h1 align="center">Hi👋, I'm Pedram Karimi</h1>
-<div align="right">
-        [![](https://visitcount.itsvg.in/api?id=pedramkarimii&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
+[![](https://visitcount.itsvg.in/api?id=pedramkarimii&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center">
         <link rel="apple-touch-icon" href="favicon.png">
         <img width="340em" height="340em" src="./Pedramkarimi.png"   alt="Pedram Karimi">
