@@ -8,6 +8,7 @@
 <p align="center">💬  &nbsp;Ask me about **Python** | **Django** <br></p>
 <p align="center">📫  &nbsp;<a href="mailto:pedram.9060@gmail.com">pedram.9060@gmail.com</a></p>
 <br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pedramkarimii&label=Profile%20views&color=0e75b6&style=flat" alt="pedramkarimii" /> </p>
 
 <br>
 <br>
