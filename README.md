@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  alt="Pedram Karimi">, I'm Pedram Karimi</h1>
+<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"  alt="Pedram Karimi"> <br> I'm Pedram Karimi</h1>
 <div align="center">
         <link rel="apple-touch-icon" href="favicon.png">
         <img width="340em" height="340em" src="./Pedramkarimi.png"   alt="Pedram Karimi">
