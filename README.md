@@ -7,7 +7,7 @@
 <br>
 <p align="center">💬  &nbsp;Ask me about **Python** | **Django** <br></p>
 <p align="center">📫  &nbsp;<a href="mailto:pedram.9060@gmail.com">pedram.9060@gmail.com</a></p>
-<p align="center" ><a href="https://www.linkedin.com/in/pedram-karimi/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
+<p align="center" ><a href="https://www.linkedin.com/in/pedram-karimi-a146492a7/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedramkarimii&label=Profile%20views&color=0e75b6&style=flat" alt="pedramkarimii" /> </p>
 
