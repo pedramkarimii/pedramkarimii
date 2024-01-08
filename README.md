@@ -32,7 +32,7 @@
 
 <br>
 <br>
-<h2 align="center">Github Status</h2>
+<h2 align="center">Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
 <div align="center">
 
   <a href="https://github.com/pedramkarimii" align="left"><img src="https://github-readme-stats.vercel.app/api?username=pedramkarimii&show_icons=true&theme=synthwave" alt="pedramkarimii's GitHub stats" /></a>
