@@ -10,7 +10,7 @@
 <h2 align="center" >Connect with me</h2>
 <div align="center">
 <p align="center"><a href="https://www.linkedin.com/in/pedram-karimi-a146492a7/"></vr><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
-<a href="https://t.me/pedrmkarmi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="[smh_tb](https://t.me/pedrmkarmi)" height="30" width="40" /><a href="mailto:pedram.9060@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="pedram.9060@gmail.com" height="30" width="40" /></a>
+<a href="https://t.me/pedrmkarmimi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="[smh_tb](https://t.me/pedrmkarmi)" height="30" width="40" /><a href="mailto:pedram.9060@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="pedram.9060@gmail.com" height="30" width="40" /></a>
 </divi>
         
 <br><br>
