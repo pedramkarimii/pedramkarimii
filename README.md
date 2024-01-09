@@ -10,11 +10,7 @@
 <p align="center" ><a href="https://www.linkedin.com/in/pedram-karimi-a146492a7/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedramkarimii&label=Profile%20views&color=0e75b6&style=flat" alt="pedramkarimii" /> </p>
-
-
-<br>
-<br>
-
+<br><br>
 <h2 align="center">🛠 Skills</h2>
 <div align="center">
 <!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="Django"/> -->
@@ -24,7 +20,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="Javascript"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap"/>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"/>
@@ -32,22 +27,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="Github"/>
 </div>
-
-<br>
-<br>
+<br><br>
 <h2 align="center">Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
 <div align="center">
-
   <a href="https://github.com/pedramkarimii" align="left"><img src="https://github-readme-stats.vercel.app/api?username=pedramkarimii&show_icons=true&theme=synthwave" alt="pedramkarimii's GitHub stats" /></a>
-  
   <a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedramkarimii&hide_progress=true" alt="Top Languages" /></a> 
   <!-- <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=pedramkarimii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="pedramkarimii" 
     bg_color=#808080/></p> -->
-  
   <a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedramkarimii&theme=default" alt="GitHub Streak"/></a>
-
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
