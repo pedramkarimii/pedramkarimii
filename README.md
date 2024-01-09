@@ -3,7 +3,7 @@
         <link rel="apple-touch-icon" href="favicon.png">
         <img width="340em" height="340em" src="./Pedramkarimi.png"   alt="Pedram Karimi">
 </div>
-<p align="center">I am a backend developer 💻. My expertise lies in Django and Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.</p>
+<p align="center">I am a backend developer 💻. My expertise lies in Django and Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.<be>My versatile background makes me a valuable asset in software development and data analysis, with a commitment to continually expanding my skill set. As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible.</p>
 <p align="center">💬  &nbsp;Ask me about **Python**  |<!-- **Django** | --> **Linux**<br></p>
 
 
@@ -55,13 +55,13 @@
 <br><br>
 <h2 align="center">Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h2>
 <div align="center">
-  <a href="https://github.com/pedramkarimii" align="left"><img src="https://github-readme-stats.vercel.app/api?username=pedramkarimii&show_icons=true&theme=synthwave" alt="pedramkarimii's GitHub stats" /></a>
-  <a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedramkarimii&hide_progress=true" alt="Top Languages" /></a> 
+<p align="center"><a href="https://github.com/pedramkarimii" align="left"><img src="https://github-readme-stats.vercel.app/api?username=pedramkarimii&show_icons=true&theme=synthwave" alt="pedramkarimii's GitHub stats" /></a> </p>
+<p align="center"><a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedramkarimii&hide_progress=true" alt="Top Languages" /></a> </p>
   <!-- <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=pedramkarimii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="pedramkarimii" 
     bg_color=#808080/></p> -->
-  <a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedramkarimii&theme=default" alt="GitHub Streak"/></a>
+<a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedramkarimii&theme=default" alt="GitHub Streak"/></a>
 </div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
