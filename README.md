@@ -5,7 +5,7 @@
 </div>
 <p align="center">I am a backend developer 💻. My expertise lies in Django and Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.</p>
 <br>
-<p align="center">💬  &nbsp;Ask me about **Python** | **Django** <br></p>
+<p align="center">💬  &nbsp;Ask me about **Python**  |<!-- **Django** | --> **Linux**<br></p>
 <p align="center">📫  &nbsp;<a href="mailto:pedram.9060@gmail.com">pedram.9060@gmail.com</a></p>
 <p align="center" ><a href="https://www.linkedin.com/in/pedram-karimi-a146492a7/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
 <br>
