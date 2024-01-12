@@ -3,7 +3,7 @@
         <link rel="apple-touch-icon" href="favicon.png">
         <img width="340em" height="340em" src="./Pedramkarimi.png"   alt="Pedram Karimi">
 </div>
-<p align="center">I am a backend developer 💻. My expertise lies in <!--  Django and -->  Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.<br> My versatile background makes me a valuable asset in software development and data analysis, with a commitment to continually expanding my skill set. As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible.</p>
+<p align="center">I am a backend developer 💻. My expertise lies in Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.<br> My versatile background makes me a valuable asset in software development and data analysis, with a commitment to continually expanding my skill set. As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible.</p>
 <p align="center">💬  &nbsp;Ask me about **Python** <!--   | **Django** |**Linux** --> <br></p>  
 <br><br>
 <h2 align="center" >📞 &nbsp;Connect me</h2>
@@ -18,29 +18,20 @@
 <h2 align="center">🛠 Skills</h2>
         
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<!-- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) -->
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=darkgreen)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) -->
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://shields.io/)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-<!--[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://shields.io/) -->
 ![Unittest](https://img.shields.io/badge/Unittest-009688?style=for-the-badge) 
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -55,11 +46,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedramkarimii&label=Profile%20views&color=0e75b6&style=flat" alt="pedramkarimii" /> </p>
 <div align="center">
 <p align="center"><a href="https://github.com/pedramkarimii" align="left"><img src="https://github-readme-stats.vercel.app/api?username=pedramkarimii&show_icons=true&theme=synthwave" alt="pedramkarimii's GitHub stats" /></a> </p>
-  <!-- <p align="center"><a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedramkarimii&hide_progress=true" alt="Top Languages" /></a> </p>
- <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=pedramkarimii&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="pedramkarimii" 
-    bg_color=#808080/></p> -->
 <a href="http://www.github.com/pedramkarimii"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedramkarimii&theme=default" alt="GitHub Streak"/></a>
 </div>
 <picture>
