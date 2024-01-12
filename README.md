@@ -3,7 +3,7 @@
         <link rel="apple-touch-icon" href="favicon.png">
         <img width="340em" height="340em" src="./Pedramkarimi.png"   alt="Pedram Karimi">
 </div>
-<p align="center">I am a backend developer 💻. My expertise lies in Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.<br> My versatile background makes me a valuable asset in software development and data analysis, with a commitment to continually expanding my skill set. As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible.</p>
+<p align="center">I am a backend developer 💻. My expertise lies in Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.<br>As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible.</p>
 <p align="center">💬  &nbsp;Ask me about **Python** <!--   | **Django** |**Linux** --> <br></p>  
 <br><br>
 <h2 align="center" >📞 &nbsp;Connect me</h2>
@@ -19,7 +19,6 @@
         
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
