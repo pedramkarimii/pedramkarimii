@@ -3,11 +3,12 @@
         <link rel="apple-touch-icon" href="favicon.png">
         <img width="340em" height="340em" src="./Pedramkarimi.png"   alt="Pedram Karimi">
 </div>
-<p align="center">I am a backend developer 💻. My expertise lies in Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.<br>As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible.</p>
-<p align="center">💬  &nbsp;Ask me about **Python** <br></p>  
+<p align="center">I am a backend developer 💻. My expertise lies in Django and Python, where I love bringing ideas to life through beautiful and efficient solutions. When the going gets tough and the whole team is under pressure, I approach the situation with a focused and committed mindset. I am an avid learner and am always looking to expand my knowledge and stay up to date with the latest technological developments. My main goal is continuous improvement, both professionally and personally. Over the past time, I have taken important steps towards developing my professional skills and improving my personality.<br>As I look towards the future, I am excited to contribute to the evolving landscape of technology and continue pushing the boundaries of what is possible.</p>
+<p align="center">💬  &nbsp;Ask me about **Python** | **Django** <br></p>  
 <br><br>
 <h2 align="center" >📞 &nbsp;Connect me</h2>
 <div align="center">
+<p align="center"><a href="https://www.linkedin.com/in/pedram-karimi-a146492a7/"></vr><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
 <a href="https://t.me/pedrmkarimi" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="[smh_tb](https://t.me/pedrmkarmi)" height="30" width="40" /><a href="mailto:pedram.9060@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349378/gmail.svg" alt="pedram.9060@gmail.com" height="30" width="40" /></a>
 </divi>  
 <br><br>
@@ -16,6 +17,7 @@
 <h2 align="center">🛠 Skills</h2>
         
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
